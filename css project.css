@@ -1,0 +1,29 @@
+.Informations personnelles {
+  color: brown;
+}
+.Formation académique {
+  color: chartreuse;
+}
+h1 {
+  color: chocolate;
+  font-style: oblique;
+}
+h3 {
+  color: cyan;
+}
+p {
+  color: blue;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: initial;
+}
+li {
+  color: cornflowerblue;
+  text-align: left;
+}
+img {
+  width: 10%;
+  height: 10%;
+}
+img:hover {
+  border: 1px solid;
+}
